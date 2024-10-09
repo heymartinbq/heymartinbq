@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Martín Batalla</h1>
+<h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">Kind of Digital Advisor after 20 career years.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heymartinbq&label=Profile%20views&color=0e75b6&style=flat" alt="heymartinbq" /> </p>
